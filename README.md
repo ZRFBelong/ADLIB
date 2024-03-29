@@ -1,0 +1,1 @@
+#Feel free to use AD SCHLIB PCBLIB OF COMPONENT
